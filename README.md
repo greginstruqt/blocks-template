@@ -3,7 +3,7 @@
 Use this repository as a starter template for building your own Blocks.
 
 
-<BlockComponent block={{"owner":"githubnext","repo":"blocks-examples","id":"code-block","type":"file"}} context={{"repo":"blocks","owner":"githubnext","path":"examples/p5-sketch.js","sha":"HEAD","file":"README.md"}} height={202} /> 
+<BlockComponent block={{"owner":"greginstruqt","repo":"blocks-examples","id":"instruqt-code-block","type":"file"}} context={{"repo":"blocks","owner":"greginstruqt","path":"","sha":"HEAD","file":"README.md"}} height={202} /> 
 
 
 ## Quickstart
