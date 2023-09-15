@@ -3,7 +3,7 @@
 Use this repository as a starter template for building your own Blocks.
 
 
-<BlockComponent block={{"owner":"greginstruqt","repo":"blocks-examples","id":"instruqt-playground-block","type":"file"}} context={{"repo":"blocks-template","owner":"greginstruqt","path":"","sha":"HEAD","file":"README.md"}} height={202} /> 
+<BlockComponent block={{"owner":"greginstruqt","repo":"blocks-template","id":"instruqt-playground-block","type":"file"}} context={{"repo":"blocks-template","owner":"greginstruqt","path":"","sha":"HEAD","file":"README.md"}} height={202} /> 
 
 
 ## Quickstart
