@@ -1,6 +1,11 @@
 # GitHub Blocks Template
 
 Use this repository as a starter template for building your own Blocks.
+
+
+<BlockComponent block={{"owner":"githubnext","repo":"blocks-examples","id":"code-block","type":"file"}} context={{"repo":"blocks","owner":"githubnext","path":"examples/p5-sketch.js","sha":"HEAD","file":"README.md"}} height={202} /> 
+
+
 ## Quickstart
 
 > 🛑 Currently, you must be flagged into the [GitHub Blocks Technical Preview](https://blocks.githubnext.com) in order to develop blocks. There is no "offline" development mode at this time.
