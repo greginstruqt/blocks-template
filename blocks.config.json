@@ -16,5 +16,13 @@
     "entry": "blocks/example-folder-block.tsx",
     "matches": ["*"],
     "example_path": "https://github.com/githubocto/flat"
-  }
+  },
+  {
+    "type": "file",
+    "id": "instruqt-playground-block",
+    "title": "Instruqt Repo Playground",
+    "description": "A hands-on playground to evaluate a project",
+    "entry": "blocks/instruqt-playground-block/index.tsx",
+    "matches": ["*"]
+  },
 ]
