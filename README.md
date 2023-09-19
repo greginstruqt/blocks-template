@@ -3,8 +3,9 @@
 Use this repository as a starter template for building your own Blocks.
 
 
-<BlockComponent block={{"owner":"greginstruqt","repo":"blocks-template","id":"instruqt-playground-block","type":"file"}} /> 
-
+<BlockComponent 
+    block={{"owner":"greginstruqt","repo":"blocks-template","id":"instruqt-playground-block","type":"file"}} 
+    height={438} />
 
 ## Quickstart
 
