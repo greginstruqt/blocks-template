@@ -1,8 +1,7 @@
 # Instruqt Playground
 <BlockComponent 
     block={{"owner":"greginstruqt","repo":"blocks-template","id":"instruqt-playground-block","type":"file"}} 
-    height={640} 
-    width={1140} />
+    height={640} />
     
 ## Quickstart
 
