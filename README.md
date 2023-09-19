@@ -1,12 +1,9 @@
-# GitHub Blocks Template
-
-Use this repository as a starter template for building your own Blocks.
-
-
+# Instruqt Playground
 <BlockComponent 
     block={{"owner":"greginstruqt","repo":"blocks-template","id":"instruqt-playground-block","type":"file"}} 
-    height={438} />
-
+    height={640} 
+    width={1140} />
+    
 ## Quickstart
 
 > 🛑 Currently, you must be flagged into the [GitHub Blocks Technical Preview](https://blocks.githubnext.com) in order to develop blocks. There is no "offline" development mode at this time.

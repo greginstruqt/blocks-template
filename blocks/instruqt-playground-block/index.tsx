@@ -4,10 +4,9 @@ import { FileBlockProps } from "@githubnext/blocks";
 export default function InstruqtBlock(props: FileBlockProps) {
   return (
     <div>
-      <h1>Instruqt Playground</h1>
       <iframe
         src="https://play.instruqt.com/embed/gregorio-test/tracks/repo-playground-poc-bun?token=em_hXRPTI6f6oLxqYmU"
-        title="Embedded Website"
+        title="Instruqt Repo Playground"
         width="1140"
         height="640"
         className="iframe-no-border"
