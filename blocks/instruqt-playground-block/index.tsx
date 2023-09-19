@@ -1,5 +1,6 @@
 
 import { FileBlockProps } from "@githubnext/blocks";
+import './InstruqtBlock.css';
 
 export default function InstruqtBlock(props: FileBlockProps) {
   return (
