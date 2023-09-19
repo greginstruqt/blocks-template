@@ -7,7 +7,7 @@ export default function InstruqtBlock(props: FileBlockProps) {
       <iframe
         src="https://play.instruqt.com/embed/gregorio-test/tracks/repo-playground-poc-bun?token=em_hXRPTI6f6oLxqYmU"
         title="Instruqt Repo Playground"
-        width="1140"
+        width="100%"
         height="640"
         className="iframe-no-border"
         sandbox="allow-forms allow-modals allow-popups allow-same-origin allow-scripts"
